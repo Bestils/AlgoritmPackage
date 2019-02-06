@@ -23,6 +23,11 @@ public class CalcTest {
     }
 
     @Test
+    public void shouldParseMultipleNumbers() {
+        assertEquals("Should parse numbers with more digits then one ", 35, calc.evaluate("35"), 0);
+    }
+
+    @Test
     public void shouldSupportAddition() {
         assertEquals("Should support addition", 4, calc.evaluate("1 3 +"), 0);
     }

@@ -73,7 +73,49 @@ int i;
 
 return  intArray;
 }
-public static int[] mergeSort(int[] input,int start,int mid,int end){
-     if(input[mid-1]<=input[mid])
+public static void mergeSort(int[] input,int start,int mid,int end){
+     if(input[mid-1]<=input[mid]){
+         return;
+     }
+     int j = mid;
+     int i = start;
+     int tempIndex=0;
+
+     int[] temp = new int[end- start];
+     while (i<mid && j< end){
+         temp[tempIndex++]=input[i] <= input[j] ? input[i++] : input[j++];
+     }
+     System.arraycopy(input,i,input,start+tempIndex,mid-1);
+     System.arraycopy(temp,0,input,start,tempIndex);
 }
+public static void quickSort(int[] input,int start,int end){
+      if (end - start <2 ){
+          return ;
+      }
+      int pivotIndex = partition(input,start,end);
+      quickSort(input,start,pivotIndex);
+      quickSort(input,pivotIndex+1,end);
+
+
+}
+public static int partition(int[] input,int start,int end){
+      int pivot = input[start];
+      int i = start;
+      int j = end;
+
+      while (i < j ){
+          while (i < j && input[--j]>= pivot);
+          if (i<j){
+              input[i]= input[j];
+          }
+          while (i < j && input[++j]<= pivot);
+          if (i<j){
+              input[j]= input[i];
+          }
+      }
+      input[j]=pivot ;
+      return j;
+}
+
+
 }

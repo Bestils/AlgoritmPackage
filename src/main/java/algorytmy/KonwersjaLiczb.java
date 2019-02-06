@@ -48,7 +48,9 @@ public class KonwersjaLiczb {
 
     }
     public BigDecimal calculate(double operand){
-        BigDecimal ret = null;
+        BigDecimal ret;
+        double calculatedValue = operand * 100 / Math.PI;
+        ret=BigDecimal.valueOf(calculatedValue);
         return ret;
     }
 
