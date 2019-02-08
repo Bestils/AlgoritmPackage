@@ -1,5 +1,7 @@
 package codewars;
 
+import algorytmy.Stringi;
+
 import java.util.ArrayList;
 import java.util.Map;
 import java.util.HashMap;
@@ -7,24 +9,36 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 class ParseMolecule {
-    public static String[] getMatchesBetween(String string, String a, String b) {
-        Pattern between = Pattern.compile("[\\[\\]\\(\\)\\<\\>\\{\\}]");
-        Matcher next = between.matcher(string);
-        ArrayList<String> matches = new ArrayList<>();
-        while (next.find()) {
-            matches.add(next.group());
-        }
 
-        return matches.toArray(new String[matches.size()]);
+    public static boolean checkIfOpenMacher(CharSequence characterSequence) {
+        Pattern between = Pattern.compile("[\\[\\]\\(\\)\\<\\>\\{\\}]");
+        Matcher macher = between.matcher(characterSequence);
+
+        return macher.matches();
+
+    }
+    public static String reverse(String string) {
+       StringBuilder sb = new StringBuilder(string);
+        return sb.reverse().toString();
+    }
+
+    private String giveMeStringWithMultiplis(String string) {
+
+        if
+
     }
 
     public static Map<String, Integer> getAtoms(String formula) {
-        // Your code here!
 
-
+        StringBuilder sb = new StringBuilder(formula);
+        String revers = sb.reverse().toString();
         HashMap atoms = new HashMap();
-
         for (int i = 0; i < formula.length(); i++) {
+
+
+            // Your code here!
+
+
             Character sign = formula.charAt(i);
             String bracketsOpen = "[\\[\\]\\(\\)\\<\\>\\{\\}]";
             String bracketsClose = "[\\\\]\\\\)\\\\>\\\\}]";
@@ -43,8 +57,8 @@ class ParseMolecule {
 
 
                 }
-multiplier= formula.charAt(i);
-                i -= shift-1 ;
+                multiplier = formula.charAt(i);
+                i -= shift - 1;
             }
 
             if (bracketsClose.contains(charSequence)) {
@@ -54,23 +68,24 @@ multiplier= formula.charAt(i);
 
 
             if (i < formula.length() - 1) {
-                if (Character.isLowerCase(formula.charAt(i +1))) {i++;
-                    if (atoms.containsKey(sign)) {
-                        k = Integer.parseInt(atoms.get(sign).toString());
-
-
-                        atoms.put(sign + "" + formula.charAt(i ), ++k * multiplier);
-                    } else {
-                        atoms.put(sign + "" + formula.charAt(i ), ++k * multiplier);
-
-                    }
-                } else if (Character.isDigit(formula.charAt(i + 1))){
+                if (Character.isLowerCase(formula.charAt(i + 1))) {
                     i++;
                     if (atoms.containsKey(sign)) {
                         k = Integer.parseInt(atoms.get(sign).toString());
-                        atoms.put(sign, ++k +1* (formula.charAt(i ) - '0') * multiplier);
+
+
+                        atoms.put(sign + "" + formula.charAt(i), ++k * multiplier);
                     } else {
-                        atoms.put(sign, ++k * (formula.charAt(i ) - '0') * multiplier);
+                        atoms.put(sign + "" + formula.charAt(i), ++k * multiplier);
+
+                    }
+                } else if (Character.isDigit(formula.charAt(i + 1))) {
+                    i++;
+                    if (atoms.containsKey(sign)) {
+                        k = Integer.parseInt(atoms.get(sign).toString());
+                        atoms.put(sign, ++k + 1 * (formula.charAt(i) - '0') * multiplier);
+                    } else {
+                        atoms.put(sign, ++k * (formula.charAt(i) - '0') * multiplier);
                     }
                 } else if (Character.isUpperCase(formula.charAt(i))) {
                     if (atoms.containsKey(sign)) {
