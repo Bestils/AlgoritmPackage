@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7188b718-322e-4227-8afb-94512cded7be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/codewars/RotatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AlgoritmPackage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codewars/HumanReadableTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codewars/NextBiggerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codewars/WeightSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codewars/HumanReadableTimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codewars/PangramCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/codewars/WeightSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codewars/Rotator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codewars/Rotator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/codewars/ParseMolecule.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/codewars/ParseMolecule.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,65 +25,52 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/codewars/ToLeetSpeak.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/codewars/HumanReadableTime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="495">
+              <caret line="33" selection-end-line="44" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/codewars/Rotator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/codewars/NextBiggerNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            <state relative-caret-position="30">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+        <entry file="file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/codewars/WeightSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="284">
+              <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="81" selection-end-column="97" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/codewars/RotatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codewars/PangramCheckerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/codewars/ToLeetSpeakTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,26 +79,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/codewars/ParseMoleculeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codewars/HumanReadableTimeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/codewars/PalindromesTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JavaClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="195">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/codewars/WeightSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorytmy/Stringi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -118,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorytmy/KonwersjaLiczb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
+            <state relative-caret-position="510">
               <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
             </state>
           </provider>
@@ -129,8 +131,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -166,7 +168,6 @@
         <option value="$PROJECT_DIR$/src/test/java/codewars/DigPowTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/codewars/DigPow.java" />
         <option value="$PROJECT_DIR$/src/test/java/codewars/ParseMoleculeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java" />
         <option value="$PROJECT_DIR$/src/test/java/codewars/DoubleColaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/codewars/DoubleCola.java" />
         <option value="$PROJECT_DIR$/src/test/java/codewars/PalindromesTest.java" />
@@ -176,6 +177,14 @@
         <option value="$PROJECT_DIR$/src/main/java/codewars/ToLeetSpeak.java" />
         <option value="$PROJECT_DIR$/src/test/java/codewars/RotatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/codewars/Rotator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codewars/PangramCheckerTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codewars/WeightSortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codewars/WeightSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/codewars/HumanReadableTimeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/codewars/HumanReadableTime.java" />
       </list>
     </option>
   </component>
@@ -191,6 +200,16 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -201,104 +220,78 @@
     <option name="width" value="1371" />
     <option name="height" value="739" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgoritmPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoritmPackage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgoritmPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoritmPackage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgoritmPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoritmPackage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgoritmPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoritmPackage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgoritmPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoritmPackage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="listy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sortowania" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgoritmPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoritmPackage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgoritmPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoritmPackage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorytmy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgoritmPackage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgoritmPackage" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="codewars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vanila" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vanila" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554604081235" />
@@ -308,9 +301,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -340,9 +335,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RotatorTest">
-    <configuration name="ParseMoleculeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vanila" />
+  <component name="RunManager" selected="JUnit.HumanReadableTimeTest">
+    <configuration name="HumanReadableTimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoritmPackage" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codewars.*" />
@@ -350,13 +345,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="codewars" />
-      <option name="MAIN_CLASS_NAME" value="codewars.ParseMoleculeTest" />
+      <option name="MAIN_CLASS_NAME" value="codewars.HumanReadableTimeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParseMoleculeTest.testMolecule (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vanila" />
+    <configuration name="PangramCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoritmPackage" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codewars.*" />
@@ -364,27 +360,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="codewars" />
-      <option name="MAIN_CLASS_NAME" value="codewars.ParseMoleculeTest" />
-      <option name="METHOD_NAME" value="testMolecule" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="[2]" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParseMoleculeTest.testMolecule" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vanila" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="codewars" />
-      <option name="MAIN_CLASS_NAME" value="codewars.ParseMoleculeTest" />
-      <option name="METHOD_NAME" value="testMolecule" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="[1]" />
+      <option name="MAIN_CLASS_NAME" value="codewars.PangramCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -399,6 +376,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="codewars" />
       <option name="MAIN_CLASS_NAME" value="codewars.RotatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -413,6 +391,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="codewars" />
       <option name="MAIN_CLASS_NAME" value="codewars.ToLeetSpeakTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoritmPackage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codewars" />
+      <option name="MAIN_CLASS_NAME" value="codewars.WeightSortTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -442,11 +436,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HumanReadableTimeTest" />
+        <item itemvalue="JUnit.WeightSortTest" />
+        <item itemvalue="JUnit.PangramCheckerTest" />
         <item itemvalue="JUnit.RotatorTest" />
         <item itemvalue="JUnit.ToLeetSpeakTest" />
-        <item itemvalue="JUnit.ParseMoleculeTest" />
-        <item itemvalue="JUnit.ParseMoleculeTest.testMolecule" />
-        <item itemvalue="JUnit.ParseMoleculeTest.testMolecule (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -474,6 +468,9 @@
       <workItem from="1551393704555" duration="554000" />
       <workItem from="1554587592433" duration="6575000" />
       <workItem from="1554626747767" duration="598000" />
+      <workItem from="1555698181875" duration="6930000" />
+      <workItem from="1555743807018" duration="10552000" />
+      <workItem from="1555847987915" duration="9657000" />
     </task>
     <task id="LOCAL-00001" summary="someAlgorithms comes">
       <created>1554601629092</created>
@@ -486,39 +483,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 12m 05s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 33m 28s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 12m 08s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 38m 13s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 14m 36s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 38m 45s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 16m 26s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 39m 08s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 16m 42s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 42m 47s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 16m 48s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 49m 35s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 16m 49s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 50m 23s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 20m 32s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 54m 38s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 26m 03s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 54m 56s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RotatorTest - 2019.04.07 at 03h 26m 32s.xml">
-      <configuration name="RotatorTest" configurationId="JUnit" />
+    <history-entry file="HumanReadableTimeTest - 2019.04.21 at 23h 56m 32s.xml">
+      <configuration name="HumanReadableTimeTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97522000" />
+    <option name="totallyTimeSpent" value="124661000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,10 +527,41 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4963181" visible="true" weight="0.28267476" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49430525" visible="true" weight="0.29469696" />
+      <window_info id="Structure" order="1" sideWeight="0.50569475" side_tool="true" weight="0.29545453" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.27317882" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.37748346" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50159913" side_tool="true" weight="0.26435536" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.07615894" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.18484849" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4963181" visible="true" weight="0.2871212" />
       <window_info id="Structure" order="1" sideWeight="0.5036819" side_tool="true" weight="0.18176973" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -559,10 +587,10 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.18283582" />
+      <window_info active="true" anchor="right" id="Maven" order="6" visible="true" weight="0.18484849" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -648,25 +676,25 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java</url>
-          <line>54</line>
+          <line>56</line>
           <properties />
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java</url>
-          <line>55</line>
+          <line>57</line>
           <properties />
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java</url>
-          <line>70</line>
+          <line>72</line>
           <properties />
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java</url>
-          <line>69</line>
+          <line>71</line>
           <properties />
           <option name="timeStamp" value="130" />
         </line-breakpoint>
@@ -694,9 +722,69 @@
           <properties />
           <option name="timeStamp" value="136" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/WeightSort.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/WeightSort.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codewars/WeightSort.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java</url>
-          <line>41</line>
+          <line>43</line>
           <properties class="codewars.ParseMolecule" method="giveMeStringWithMultiplies">
             <option name="EMULATED" value="true" />
           </properties>
@@ -768,9 +856,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/stringiTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/KonwersjaLiczbTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/algorytmy/StringiTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -778,13 +863,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/codewars/CalcTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -808,24 +887,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="4773" column="7" lean-forward="true" selection-start-line="4773" selection-start-column="7" selection-end-line="4773" selection-end-column="7" />
-          <folding>
-            <element signature="e#160116#160117#0" expanded="true" />
-            <element signature="e#160186#160187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Character.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class" />
     <entry file="file://$PROJECT_DIR$/src/test/java/codewars/DoubleColaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -836,13 +899,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7429">
-          <caret line="497" selection-start-line="497" selection-end-line="497" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/Method.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/codewars/DigPowTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -876,27 +933,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/codewars/Palindromes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JavaClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -928,30 +968,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/codewars/ToLeetSpeak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="300">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/codewars/RotatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="225">
           <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -965,7 +993,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/codewars/ToLeetSpeakTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="210">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -973,9 +1001,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codewars/Rotator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/codewars/ParseMoleculeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="600">
           <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -985,7 +1027,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/codewars/PalindromesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="120">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -995,24 +1037,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorytmy/Stringi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorytmy/KonwersjaLiczb.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
+        <state relative-caret-position="510">
           <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/codewars/Rotator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/codewars/ParseMolecule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        <state relative-caret-position="165">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codewars/WeightSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JavaClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codewars/WeightSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="81" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codewars/PangramCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codewars/PangramChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/codewars/HumanReadableTimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codewars/HumanReadableTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/codewars/NextBiggerNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
